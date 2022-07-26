@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/felipeizidoro">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeizidoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=felipeizidoro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeizidoro&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
@@ -12,10 +12,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="BOOTSTRAP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
   <img align="center" alt="NODEJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="NODEJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-          
-           
-            
+  <img align="center" alt="NODEJS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />           
 </div>
  
  <br>
